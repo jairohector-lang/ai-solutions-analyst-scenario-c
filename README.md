@@ -58,7 +58,7 @@ python -m venv .venv && source .venv/bin/activate  # (Windows: .venv\Scripts\act
 pip install -r requirements.txt
 
 # 3) Run pipeline (uses sample data in data/)
-python -m reconcile
+python pipeline.py
 
 # 4) See artifacts
 ls outputs/
