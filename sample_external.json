@@ -1,0 +1,38 @@
+[
+  {
+    "job_id": "EXT-1001",
+    "job_date": "2025-10-31",
+    "site": "Miami HQ",
+    "service_type": "Day Porter",
+    "units": 160,
+    "rate": 25.0,
+    "amount": 4000.0
+  },
+  {
+    "job_id": "EXT-1002",
+    "job_date": "2025-10-31",
+    "site": "Brickell Tower",
+    "service_type": "Janitorial",
+    "units": 120,
+    "rate": 30.0,
+    "amount": 3600.0
+  },
+  {
+    "job_id": "EXT-1003",
+    "job_date": "2025-10-31",
+    "site": "Doral Whse",
+    "service_type": "Janitorial",
+    "units": 100,
+    "rate": 28.0,
+    "amount": 2800.0
+  },
+  {
+    "job_id": "EXT-1004",
+    "job_date": "2025-10-31",
+    "site": "Coral Gables HQ",
+    "service_type": "Day Porter",
+    "units": 160,
+    "rate": 26.0,
+    "amount": 4160.0
+  }
+]
