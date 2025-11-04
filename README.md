@@ -95,5 +95,5 @@ pytest -q
 
 ---
 
-**Author**: Candidate — AI Solutions Analyst (Entry Level)  
+**Author**: Jairo Hector — AI Solutions Analyst (Entry Level)  
 **Scenario**: C — Revenue Reconciliation & Anomaly Detection
